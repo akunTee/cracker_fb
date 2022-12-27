@@ -12,4 +12,6 @@ $ cd cracker_fb
 
 $ git pull
 
-$ python run_enc.py
+$ python run.py
+
+#YTTA
